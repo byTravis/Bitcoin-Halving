@@ -5,7 +5,7 @@
 There has been a lot of talk and excitement around Bitcoin's upcoming halving, which is expected in April, 2022.  A lot of chatter has been around the value of Bitcoin going up because there will be more scarcity.  Many believe that Bitcoin's value will likely spike right before the halving, speculating that increased scarcity will continue to drive up prices.  Some believe that after the pre-halving spike, the price will drop before rising drmatically again as investors ride the market.  Eventually, the thought is, it will stabalize, then continue to rise at a more reasonalbe rate.  
 
 
-**Disclaimer:**  The purpose of this project is to quickly see the Bitcoin price trends around the Bitcoin halving dates.  I know very little about Bitcoin, and I understand there is a lot more analytics and complex projections for this speculative investing.  This was a simple exercise so I could visualize what others are talking about. 
+**Disclaimer:**  The purpose of this project is to quickly see the Bitcoin price trends around the Bitcoin halving dates.  I know very little about Bitcoin, and I understand there is a lot more analytics and complex projections for this type of speculative investing.  This was a simple exercise so I could visualize what others are talking about. 
 
 ## What Is Bitcoin Halving?
 Bitcoin halving is something that happens every four years or so.  It basically reduces the reward miners (people who process the block-chains and verifies Bitcoin transactions) recieve by half.  This is coded into Bitcoin's structure to control the supply and reduce inflation. As a result, the rate at which new Bitcoins are generated slows down, making it more scarce and, in theory, drives up the value due to increased demand in relation to the supply.
@@ -27,6 +27,9 @@ The previous Bitcoin halving dates were November 28, 2012, July 9, 2016, and May
 - The next expected halving date is estimated to be in April, 2022.
 
 ## Results
+
+### Bitcoin Halving - July 9, 2016
 ![Bitcoin Halving - July 9, 2016](images/Bitcoin-Halving_07-09-2016.png)
 
+### Bitcoin Halving - May 11, 2020
 ![Bitcoin Halving - May 11, 2020](images/Bitcoin-Halving_05-11-2020.png)
