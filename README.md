@@ -11,7 +11,7 @@ There has been a lot of talk and excitement around Bitcoin's upcoming halving, w
 
 
 ## What Is Bitcoin Halving?
-Bitcoin halving is something that happens every four years or so.  It basically reduces the reward miners (people who process the block-chains and verifies Bitcoin transactions) recieve by half.  This is coded into Bitcoin's structure to control the supply and reduce inflation. As a result, the rate at which new Bitcoins are generated slows down, making it more scarce and, in theory, drives up the value due to increased demand in relation to the supply.
+Bitcoin halving is something that happens every four years or so. It basically reduces the reward miners (people who process the block-chains and verifies Bitcoin transactions) receive by half. This is coded into Bitcoin's structure to control the supply and reduce inflation. As a result, the rate at which new Bitcoins are generated slows down, making it more scarce and, in theory, drives up the value due to increased demand in relation to the supply.
 
 **Additional information I found useful:**
 - *Forbes*:  [Bitcoin Halving 2024: How It Works and Why It Matters](https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-halving/)
