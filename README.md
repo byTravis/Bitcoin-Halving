@@ -14,7 +14,7 @@ Bitcoin halving is something that happens every four years or so.  It basically 
 - Forbes:  [Bitcoin Halving 2024: How It Works and Why It Matters](https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-halving/)
 - Coinbase:  [What is Bitcoin halving]?(https://www.coinbase.com/learn/crypto-basics/what-is-a-bitcoin-halving)
 - Wikipedia:  [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
-- YouTube - Crypto Casey:  [Bitcoin Halving 2024  Ultimate Beginners’ Guide! \(What is the Bitcoin Halving & How to Prepare\)](https://www.youtube.com/watch?v=4LkiOvdwOgg&ab_channel=CryptoCasey)
+- YouTube - Crypto Casey:  [Bitcoin Halving 2024  Ultimate Beginners’ Guide! (What is the Bitcoin Halving & How to Prepare)](https://www.youtube.com/watch?v=4LkiOvdwOgg&ab_channel=CryptoCasey)
 
 
 
