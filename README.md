@@ -27,5 +27,6 @@ The previous Bitcoin halving dates were November 28, 2012, July 9, 2016, and May
 - The next expected halving date is estimated to be in April, 2022.
 
 ## Results
-![Bitcoin Halving - July 9, 2016](images\Bitcoin-Halving_07-09-2016.png)
-![Bitcoin Halving - May 11, 2020](images\Bitcoin-Halving_05-11-2020.png)
+![Bitcoin Halving - July 9, 2016](images/Bitcoin-Halving_07-09-2016.png)
+
+![Bitcoin Halving - May 11, 2020](images/Bitcoin-Halving_05-11-2020.png)
