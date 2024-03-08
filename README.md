@@ -4,14 +4,14 @@
 ![Bitcoin Halving](images/project_banner.jpg)
 
 ## Background
-There has been a lot of talk and excitement around Bitcoin's upcoming halving, which is expected in April, 2022. A lot of chatter has been around the value of Bitcoin going up because there will be more scarcity. Many believe that Bitcoin's value will likely spike right before the halving, speculating that increased scarcity will continue to drive up prices. Some believe that after the pre-halving spike, the price will drop before rising dramatically again as investors ride the market. Eventually, the thought is, it will stabilize, then continue to rise at a more reasonable rate.
+There has been a lot of excitement around Bitcoin's upcoming halving, which is expected in April, 2022. A lot of chatter has been around the value of Bitcoin going up because there of the built in scarcity mechanism built into Bitcoin's structure. Many believe that Bitcoin's value will likely spike right before the halving, speculating that increased scarcity will continue to drive up prices. Some believe that after the pre-halving spike, the price will drop dramatically before rising again as investors ride the market. Eventually, the thought is, Bitcoin prices will stabilize once again, and continue to rise at a more reasonable rate.
 
 
 **Disclaimer:**  The purpose of this project is to quickly see the Bitcoin price trends around the Bitcoin halving dates.  I know very little about Bitcoin, and I understand there is a lot more analytics and complex projections for this type of speculative investing.  This was a simple exercise so I could visualize what others are talking about. 
 
 
 ## What Is Bitcoin Halving?
-Bitcoin halving is something that happens every four years or so. It basically reduces the reward miners (people who process the block-chains and verifies Bitcoin transactions) receive by half. This is coded into Bitcoin's structure to control the supply and reduce inflation. As a result, the rate at which new Bitcoins are generated slows down, making it more scarce and, in theory, drives up the value due to increased demand in relation to the supply.
+Bitcoin halving is something that happens every four years or so. It basically reduces the reward miners (people who verifies Bitcoin transactions) receive by half. This is built into Bitcoin's structure to control the supply and reduce inflation. As a result, the rate at which new Bitcoins are generated slows down, making them more scarce and, in theory, drives up the value due to increased demand in relation to the available supply.
 
 **Additional information I found useful:**
 - *Forbes*:  [Bitcoin Halving 2024: How It Works and Why It Matters](https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-halving/)
