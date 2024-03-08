@@ -10,7 +10,7 @@ There has been a lot of excitement around Bitcoin's upcoming halving event, whic
 **Disclaimer:**  The purpose of this project is to quickly see the Bitcoin price trends around the Bitcoin halving dates.  My knowledge and experience with Bitcoin is rather limited.  I understand there is a lot more analytics and complex projections for this type of speculative investing.  This was a simple exercise so I could visualize what others are talking about. 
 
 
-## What is Bitcoin halving?
+## What Is Bitcoin Halving?
 Bitcoin halving is something that happens every four years or so. It basically reduces the reward miners (people who verifies Bitcoin transactions) receive by half. This is built into Bitcoin's structure to control the supply and reduce inflation. As a result, the rate at which new Bitcoins are generated slows down, making them more scarce and, in theory, drives up the value due to increased demand in relation to the available supply.
 
 **Additional information I found useful:**
