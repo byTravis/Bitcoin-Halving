@@ -1,7 +1,7 @@
 # Bitcoin Halving
 *A quick look at Bitcoin prices when they reach halving.*
 
-![Bitcoin Halving](images/project_banner.jpg)
+![Bitcoin Halving](utils/readme_files/project_banner.jpg)
 
 ## Background
 There has been a lot of excitement around Bitcoin's upcoming halving event, which is expected in April, 2022. A lot of chatter has been around the value of Bitcoin going up because of the scarcity mechanism built into Bitcoin's structure. Many believe that Bitcoin's value will likely spike right before halving, speculating that increased scarcity will continue to drive up prices. Some believe that after the pre-halving spike, the price will drop dramatically before rising again as investors ride the market. Eventually, the thought is, Bitcoin prices will stabilize once again, and continue to rise at a more reasonable rate.
