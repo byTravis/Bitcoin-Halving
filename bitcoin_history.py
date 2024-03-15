@@ -4,13 +4,15 @@ import matplotlib.pyplot as plt
 import utils.ui
 import utils.settings
 
-# Enter your source files and halving dates in this list to create the graph.  
-#  First field:  CSV name.  Second field:  Halving date in yyyy-mm-dd format.
 
-# generate_charts = [
-#     ['04-01-2020_09-30-2020.csv', '2020-05-11'],
-#     ['06-01-2016_12-31-2016.csv', '2016-07-09'] 
-# ]
+
+
+
+#  Pull Data
+def pull_data(dates):
+    print(dates)
+
+
 
 
 # # Generates the halving charts.
@@ -66,6 +68,7 @@ import utils.settings
 #     plt.savefig(f"exports/Bitcoin-Halving_{pd.to_datetime(halving_date).strftime('%m-%d-%Y')}.png")
 
 #     plt.show()
+
 
 
 
